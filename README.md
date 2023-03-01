@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Lead developer at WiHi, where we're decentralizing weather data collection and forecasting.
+
 <!--
 **chiumichael/chiumichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
