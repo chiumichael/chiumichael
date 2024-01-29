@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Lead developer at [WiHi](https://www.wihi.link), where we're decentralizing weather and climate intelligence
+Lead developer at [WiHi](https://www.wihi.cc), where we're decentralizing weather and climate intelligence
 
 <!--
 **chiumichael/chiumichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
